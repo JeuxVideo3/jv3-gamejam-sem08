@@ -1,0 +1,2 @@
+Les objet à prendre ont la layer : "Objet-Chaudron"
+Le chaudron à la layer "Chaudron"
