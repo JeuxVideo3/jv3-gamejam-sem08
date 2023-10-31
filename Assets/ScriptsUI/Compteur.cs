@@ -8,6 +8,12 @@ public class Compteur : MonoBehaviour
     [SerializeField]
     private TMP_Text compteurChampTexte;
 
+    [SerializeField]
+    private Collider colliderObjet;
+
+    [SerializeField]
+    private Collider colliderChaudron;
+
     private int score;
 
     void Update()
